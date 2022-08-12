@@ -12,6 +12,7 @@ export const HomePage = () => {
     data: users,
   } = useSearchUsersQuery(debounced, {
     skip: debounced.length < 3,
+    refetchOnFocus: true,
   })
 
   useEffect(() => {
