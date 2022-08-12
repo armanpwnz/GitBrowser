@@ -1,6 +1,7 @@
 # Git browser 
 
-Search for Github users and show their repositories with stars/forks/programming language
+* Search for Github users and show their repositories with stars/forks/programming language
+* Old version of this project => [Github repos](https://github.com/armanpwnz/github-repos)
 
 # Stack 
 
