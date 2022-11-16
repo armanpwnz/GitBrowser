@@ -5,6 +5,7 @@
 
 # Stack 
 
+* React
 * TypeScript
 * Redux toolkit 
 * RTKQuery
